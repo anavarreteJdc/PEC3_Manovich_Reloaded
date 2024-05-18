@@ -43,15 +43,15 @@ Como se puede observar, Alyx es un ejemplo claro de hibridación.
 
 [![Ingress.png](https://i.postimg.cc/2jBJG67K/Ingress.png)](https://postimg.cc/ThfCYTSV)
 
-Ingress, desarrollado por Niantic, es otro ejemplo paradigmático de hibridación en los medios digitales. Este juego de realidad aumentada (AR) combina elementos de juego móvil, interacción social y exploración del mundo real, creando una experiencia de juego única y envolvente.
+Desarrollado por Niantic, Ingress es un ejemplo destacado de cómo la hibridación se manifiesta en los medios digitales. Este juego de realidad aumentada (AR) entrelaza elementos de juegos móviles, interacción social y la exploración del mundo real, ofreciendo una experiencia de juego verdaderamente única y absorbente.
 
-Ingress se basa en el uso de dispositivos móviles para integrar el juego con el entorno físico del jugador. Utiliza la tecnología de geolocalización para crear un mapa del mundo real lleno de portales virtuales que los jugadores deben capturar y controlar. Este uso de la AR y la geolocalización es un ejemplo claro de hibridación tecnológica, combinando el mundo digital con el físico de una manera que redefine la interacción del jugador con su entorno.
+Ingress se apoya en dispositivos móviles para fusionar el juego con el entorno físico del jugador. Aprovecha la tecnología de geolocalización para generar un mapa del mundo real lleno de portales virtuales que los jugadores deben capturar y controlar. Esta combinación de AR y geolocalización ejemplifica perfectamente la hibridación tecnológica, al unir el mundo digital con el físico de una manera que transforma la forma en que los jugadores interactúan con su entorno.
 
 [![Ingress1.png](https://i.postimg.cc/yYRHDjGW/Ingress1.png)](https://postimg.cc/QHjPPQhr)
 
-La hibridación en Ingress también se manifiesta en la integración de elementos sociales y colaborativos en el juego. Los jugadores deben unirse a facciones y colaborar con otros jugadores para alcanzar objetivos comunes. Esta combinación de interacción social y juego competitivo crea una experiencia dinámica y comunitaria, que va más allá del juego individual típico de los videojuegos tradicionales.
+La hibridación en Ingress también se refleja en la forma en que incorpora elementos sociales y colaborativos. Los jugadores deben unirse a facciones y trabajar en conjunto para alcanzar objetivos comunes, lo que genera una experiencia dinámica y comunitaria que trasciende el juego individual típico de los videojuegos tradicionales.
 
-Además, Ingress fusiona elementos de narrativa con la jugabilidad. La historia del juego, que involucra una lucha global entre dos facciones, se despliega a través de misiones y eventos en el mundo real. Los jugadores no solo siguen una historia, sino que también la viven activamente a través de sus interacciones en el juego y en el mundo físico. Esta integración de narrativa y juego es un ejemplo perfecto de hibridación, creando una experiencia que es a la vez personal y colectiva.
+Además, Ingress entrelaza narrativa y jugabilidad de manera única. La trama del juego, que gira en torno a una lucha global entre dos facciones, se desarrolla a través de misiones y eventos en el mundo real. Los jugadores no solo siguen una historia, sino que la experimentan activamente mediante sus interacciones tanto en el juego como en el entorno físico. Esta fusión de narrativa y jugabilidad es un ejemplo claro de hibridación, creando una experiencia que es simultáneamente personal y colectiva.
 
 
 ### Bibliografía
