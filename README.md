@@ -17,7 +17,7 @@ Half-Life: Alyx . Videojuego desarrollado por Valve que ejemplifica perfectament
 
 En términos de narrativa, Half-Life: Alyx se construye sobre la rica historia de la serie Half-Life, integrando una narrativa lineal con elementos interactivos que permiten a los jugadores explorar y descubrir la trama a su propio ritmo. La capacidad de interactuar con el entorno de manera tan detallada, gracias a la tecnología VR, crea una fusión entre la narrativa tradicional y la interactividad moderna. Los jugadores no solo siguen una historia, sino que también la moldean a través de sus acciones y decisiones.
 
-![Half-Life: Alyx VR Gameplay]([https://upload.wikimedia.org/wikipedia/commons/6/69/Half-Life_Alyx_VR_gameplay.jpg](https://www.roadtovr.com/wp-content/uploads/2023/10/hla-incursion.jpg)) 
+![Half-Life: Alyx VR Gameplay] (https://www.roadtovr.com/wp-content/uploads/2023/10/hla-incursion.jpg)
 
 La realidad virtual en sí misma es un excelente ejemplo de hibridación tecnológica. Combina gráficos 3D avanzados, sensores de movimiento y hardware especializado para ofrecer una experiencia inmersiva. En Half-Life: Alyx, los jugadores pueden manipular objetos virtuales con sus manos, explorar entornos detallados y participar en combates intensos, todo en un mundo tridimensional que responde a sus movimientos físicos. Esta combinación de tecnologías crea una experiencia que es mucho más que la suma de sus partes.
 
