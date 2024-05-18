@@ -1,6 +1,6 @@
 # PEC3_Manovich_Reloaded
 ### Autor
-Nombre: Arturo Navarrete Jimenez de Cisneros
+Arturo Navarrete Jimenez de Cisneros
 
 ## Ensayo sobre la Hibridación en Half-Life: Alyx e Ingress
 
@@ -20,7 +20,10 @@ Half-Life: Alyx . Videojuego desarrollado por Valve que ejemplifica perfectament
 
 En términos de narrativa, Half-Life: Alyx se construye sobre la rica historia de la serie Half-Life, integrando una narrativa lineal con elementos interactivos que permiten a los jugadores explorar y descubrir la trama a su propio ritmo. La capacidad de interactuar con el entorno de manera tan detallada, gracias a la tecnología VR, crea una fusión entre la narrativa tradicional y la interactividad moderna. Los jugadores no solo siguen una historia, sino que también la moldean a través de sus acciones y decisiones.
 
-![Half-Life: Alyx] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cuatro.com%2Fvideojuegos%2Fhalflife-alyx-nuevo-gameplay-realidadvirtual-valve_18_2908770127.html&psig=AOvVaw1UxsspYsEYVA3H4O1KOkCc&ust=1716129354327000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDo8Zi2l4YDFQAAAAAdAAAAABAE)
+[![halflife-alyx-11.jpg](https://i.postimg.cc/d0m89p2Z/halflife-alyx-11.jpg)](https://postimg.cc/d73ksWSJ)
+
+#### Trailer Alyx
+[![pruebaEnlace](https://i.postimg.cc/vZQ47TmM/miniatura-Alyx.png)](https://postimg.cc/XpzN4VFD)
 
 La realidad virtual en sí misma es un excelente ejemplo de hibridación tecnológica. Combina gráficos 3D avanzados, sensores de movimiento y hardware especializado para ofrecer una experiencia inmersiva. En Half-Life: Alyx, los jugadores pueden manipular objetos virtuales con sus manos, explorar entornos detallados y participar en combates intensos, todo en un mundo tridimensional que responde a sus movimientos físicos. Esta combinación de tecnologías crea una experiencia que es mucho más que la suma de sus partes.
 
