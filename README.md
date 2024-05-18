@@ -1,4 +1,8 @@
 # PEC3_Manovich_Reloaded
+### Autor
+
+Nombre: [Arturo Navarrete Jimenez de Cisneros]
+
 ## Ensayo sobre la Hibridación en Half-Life: Alyx e Ingress
 
 ### Introducción a la Hibridación según Lev Manovich
