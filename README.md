@@ -16,22 +16,19 @@ Otro ejemplo es el juego de realidad aumentada (AR) "Ingress", que usa tu teléf
 
 #### Análisis de la Hibridación en Half-Life: Alyx
 
+[![halflife-alyx-11.jpg](https://i.postimg.cc/d0m89p2Z/halflife-alyx-11.jpg)](https://postimg.cc/d73ksWSJ)
+
 Half-Life: Alyx . Videojuego desarrollado por Valve que ejemplifica perfectamente la hibridación descrita por Manovich. Este juego combina elementos de narrativa interactiva, gráficos avanzados y realidad virtual (VR) para crear una experiencia inmersiva sin precedentes.
 
 En términos de narrativa, Half-Life: Alyx se construye sobre la rica historia de la serie Half-Life, integrando una narrativa lineal con elementos interactivos que permiten a los jugadores explorar y descubrir la trama a su propio ritmo. La capacidad de interactuar con el entorno de manera tan detallada, gracias a la tecnología VR, crea una fusión entre la narrativa tradicional y la interactividad moderna. Los jugadores no solo siguen una historia, sino que también la moldean a través de sus acciones y decisiones.
 
-[![halflife-alyx-11.jpg](https://i.postimg.cc/d0m89p2Z/halflife-alyx-11.jpg)](https://postimg.cc/d73ksWSJ)
+La realidad virtual es un ejemplo perfecto de hibridación tecnológica. Combina gráficos 3D avanzados, sensores de movimiento y hardware especializado para ofrecer una experiencia inmersiva. En Half-Life: Alyx, los jugadores pueden manipular objetos con "tus manos", explorar entornos detallados y participar en combates intensos, todo en un mundo en el que interactuas y responden a tus movimientos. Esta combinación de tecnologías crea una de las experiencias mas fuertes que puedes experimentar en los videojuegos.
 
-#### Trailer Alyx
-[![pruebaEnlace](https://i.postimg.cc/vZQ47TmM/miniatura-Alyx.png)](https://postimg.cc/XpzN4VFD)
-
-La realidad virtual en sí misma es un excelente ejemplo de hibridación tecnológica. Combina gráficos 3D avanzados, sensores de movimiento y hardware especializado para ofrecer una experiencia inmersiva. En Half-Life: Alyx, los jugadores pueden manipular objetos virtuales con sus manos, explorar entornos detallados y participar en combates intensos, todo en un mundo tridimensional que responde a sus movimientos físicos. Esta combinación de tecnologías crea una experiencia que es mucho más que la suma de sus partes.
-
-Además, Half-Life: Alyx integra elementos de juego tradicionales, como la resolución de puzles y el combate en primera persona, con la inmersión y la interacción física proporcionadas por la VR. Los puzles del juego, que a menudo requieren manipular objetos en el espacio virtual, son un claro ejemplo de cómo la hibridación de mecánicas de juego tradicionales con nuevas tecnologías puede crear experiencias innovadoras y envolventes.
+El videojuego no abandona los juegos tradicionales como puzles, acertijos , combates en primera persona, pero la inmersion y la interaccion fisica, hace que esos juegos tradicionales, se percoiban de una manera totalmente distinta, ya que en ciertas ocasiones, experimentas una experiencia mas fuerte y quizá la resolucion de estos juegos tradicionales te resulte algo mas complicada sometiendote a este tipo de escenarios. Los puzles del juego, que a menudo requieren manipular objetos en el espacio virtual, son un claro ejemplo de cómo la hibridación de mecánicas de juego tradicionales con nuevas tecnologías puede crear experiencias innovadoras y envolventes.
 
 #### Conclusión
 
-Half-Life: Alyx demuestra cómo la hibridación puede transformar la experiencia de juego. Al combinar narrativa, tecnología y mecánicas de juego, crea una experiencia que redefine lo que es posible en el mundo de los videojuegos. Esta hibridación no solo enriquece la experiencia del jugador, sino que también abre nuevas posibilidades para la narrativa interactiva y la tecnología de VR en general.
+Alyx demuestra cómo la hibridación puede transformar totalmente la experiencia de juego. Al combinar la historia, la tecnología y aplicando las tipicas mecánicas de juego, crea una experiencia que redefine lo que es posible en el mundo de los videojuegos. Esta hibridación no solo enriquece la experiencia del jugador, sino que también abre nuevas posibilidades para la narrativa interactiva y la tecnología de VR en general.
 
 ### Ingress
 
