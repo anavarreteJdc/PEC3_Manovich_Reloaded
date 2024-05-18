@@ -1,4 +1,4 @@
-# PEC3_Manovich_Reloaded
+# PEC3_Visionando el futuro con las gafas de Manovich
 ### Autor
 
 Arturo Navarrete Jimenez de Cisneros
