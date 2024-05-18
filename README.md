@@ -3,17 +3,21 @@
 
 ### Introducción a la Hibridación según Lev Manovich
 
-Lev Manovich, teórico de los medios y académico reconocido, introduce el concepto de hibridación en el contexto de los medios digitales. La hibridación, según Manovich, es el proceso mediante el cual diferentes formas y prácticas de medios se combinan para crear nuevas experiencias y formas de comunicación. Este concepto es crucial para entender cómo los medios digitales contemporáneos, como los videojuegos y las aplicaciones móviles, están redefiniendo las fronteras entre diferentes tipos de medios y experiencias. La hibridación no solo se trata de la fusión de tecnologías, sino también de la integración de narrativas, interacciones y realidades, dando lugar a productos mediáticos que ofrecen experiencias enriquecidas y multifacéticas.
+Supongo que habras tenido alguna experiencia 3D en el cine como podria ser Avatar. Pues bien, no solo estás viendo una película (un medio tradicional), sino que también estás utilizando tecnología 3D (una innovación tecnológica) para mejorar tu experiencia visual. Esto es una forma básica de hibridación.
+
+En el ámbito digital, la hibridación se manifiesta de forma mas dificil de identificar. Por ejemplo, en un videojuego de realidad virtual (VR) como la eleccion de este caso, el  "Half-Life: Alyx", combinan gráficos avanzados, fisicas, narrativas interactivas y tecnología de VR para crear una experiencia totalmente inmersiva. No solo juegas, sino que también eres parte del juego, lo que transforma completamente cómo percibes y participas en la historia.
+
+Otro ejemplo es el juego de realidad aumentada (AR) "Ingress", que usa tu teléfono móvil para superponer un mundo digital sobre el mundo real. Caminas por la calle, pero te encuentras portales y elementos del juego en la pantalla de tu móvil. Esto mezcla tu realidad con el juego, creando una nueva forma de interactuar que depende de tu interacción con el espacio real y virtual simultáneamente.
 
 ### Half-Life: Alyx
 
 #### Análisis de la Hibridación en Half-Life: Alyx
 
-Half-Life: Alyx es un videojuego desarrollado por Valve que ejemplifica perfectamente la hibridación descrita por Manovich. Este juego combina elementos de narrativa interactiva, gráficos avanzados y realidad virtual (VR) para crear una experiencia inmersiva sin precedentes.
+Half-Life: Alyx . Videojuego desarrollado por Valve que ejemplifica perfectamente la hibridación descrita por Manovich. Este juego combina elementos de narrativa interactiva, gráficos avanzados y realidad virtual (VR) para crear una experiencia inmersiva sin precedentes.
 
 En términos de narrativa, Half-Life: Alyx se construye sobre la rica historia de la serie Half-Life, integrando una narrativa lineal con elementos interactivos que permiten a los jugadores explorar y descubrir la trama a su propio ritmo. La capacidad de interactuar con el entorno de manera tan detallada, gracias a la tecnología VR, crea una fusión entre la narrativa tradicional y la interactividad moderna. Los jugadores no solo siguen una historia, sino que también la moldean a través de sus acciones y decisiones.
 
-![Half-Life: Alyx VR Gameplay](https://upload.wikimedia.org/wikipedia/commons/6/69/Half-Life_Alyx_VR_gameplay.jpg)
+![Half-Life: Alyx VR Gameplay]([https://upload.wikimedia.org/wikipedia/commons/6/69/Half-Life_Alyx_VR_gameplay.jpg](https://www.roadtovr.com/wp-content/uploads/2023/10/hla-incursion.jpg)) 
 
 La realidad virtual en sí misma es un excelente ejemplo de hibridación tecnológica. Combina gráficos 3D avanzados, sensores de movimiento y hardware especializado para ofrecer una experiencia inmersiva. En Half-Life: Alyx, los jugadores pueden manipular objetos virtuales con sus manos, explorar entornos detallados y participar en combates intensos, todo en un mundo tridimensional que responde a sus movimientos físicos. Esta combinación de tecnologías crea una experiencia que es mucho más que la suma de sus partes.
 
