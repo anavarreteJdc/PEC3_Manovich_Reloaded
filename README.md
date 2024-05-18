@@ -30,10 +30,6 @@ En "Half-Life: Alyx", los jugadores pueden manipular objetos con "sus manos", ex
 
 El juego no abandona las mecánicas tradicionales como puzles, acertijos y combates en primera persona, pero la inmersión y la interacción física hacen que estas experiencias se perciban de manera completamente distinta. En algunos casos, resolver estos desafíos puede resultar más complicado debido al entorno altamente envolvente. Los puzles, que a menudo requieren manipular objetos en el espacio virtual, muestran cómo la mezcla de mecánicas de juego tradicionales con nuevas tecnologías puede crear experiencias innovadoras.
 
-Como se puede observar, Alyx es un ejemplo claro de hibridación.
->"Los medios híbridos basados en software combinan características y capacidades de diferentes formas de medios, como texto, imagen, video e interactividad, de maneras que trascienden sus definiciones originales."
->(Lev Manovich, 2013)
->
 
 ***
 
@@ -53,10 +49,17 @@ La hibridación en Ingress también se refleja en la forma en que incorpora elem
 
 Además, Ingress entrelaza narrativa y jugabilidad de manera única. La trama del juego, que gira en torno a una lucha global entre dos facciones, se desarrolla a través de misiones y eventos en el mundo real. Los jugadores no solo siguen una historia, sino que la experimentan activamente mediante sus interacciones tanto en el juego como en el entorno físico. Esta fusión de narrativa y jugabilidad es un ejemplo claro de hibridación, creando una experiencia que es simultáneamente personal y colectiva.
 
+***
+Como se puede observar, Alyx e Ingress son ejemplos claros de hibridación.
+>"Los medios híbridos basados en software combinan características y capacidades de diferentes formas de medios, como texto, imagen, video e interactividad, de maneras que trascienden sus definiciones originales."
+>(Lev Manovich, 2013)
+
+
 
 ### Bibliografía
 
 - Manovich, Lev. (2013). El Software toma el mando.
-- Valve. (2020). Half-Life: Alyx. Valve Corporation.
-- Niantic. (2013). Ingress. Niantic, Inc.
+- Valve. (2020). Half-Life: Alyx. Valve Corporation. [Alyx](https://www.half-life.com/es/alyx)
+- Niantic. (2013). Ingress. Niantic, Inc. [Ingress](https://ingress.com/)
+- Lectura fuentes Xataka [Xataka](https://www.xataka.com/videojuegos/valve-presenta-trailer-alyx-regreso-half-life-dispositivos-realidad-virtual)
 
