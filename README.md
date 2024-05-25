@@ -8,24 +8,23 @@ Arturo Navarrete Jimenez de Cisneros
 
 ### Introducción a la Hibridación según Lev Manovich
 
-Supongo que habrás tenido alguna experiencia 3D en el cine como podria ser Avatar. Pues bien, no solo estás viendo una película (un medio tradicional), sino que también estás utilizando tecnología 3D (una innovación tecnológica) para mejorar tu experiencia visual. Esto es una forma básica de hibridación.
+¿Alguna vez has visto una película en 3D, como Avatar? No solo estás viendo una película tradicional, también estás experimentando la magia del 3D que mejora tu experiencia visual. Eso es una forma sencilla de hibridación.
 
-Manovich nos dice que "la hibridación es el resultado de la convergencia de diferentes tecnologías de medios en una única plataforma de software" (El software toma el mando, 2013 , Capítulo 2, p. 115). 
+Manovich nos cuenta que "la hibridación es cuando diferentes tecnologías de medios se combinan en una única plataforma de software" (El software toma el mando, 2013).
 
-Esto significa que las barreras entre medios como el video, la fotografía y la animación se desvanecen, permitiéndonos crear experiencias completamente nuevas.
+Esto significa que las líneas entre video, fotografía y animación desaparecen, permitiendo la creación de experiencias completamente nuevas.
 
-Pensemos en algo cotidiano: Instagram. No es solo una app para fotos. Puedes agregar filtros (fotografía), historias (video), texto (diseño gráfico) y hasta música (audio). Es un ejemplo perfecto de cómo diferentes medios se mezclan para ofrecer algo más rico y dinámico.
+Pensemos en algo más cotidiano: Instagram. No es solo para fotos. Puedes agregar filtros (fotografía), historias (video), texto (diseño gráfico) y hasta música (audio). Es un ejemplo perfecto de cómo se mezclan diferentes medios para hacer algo más interesante y completo.
 
-O también los videojuegos ( como nuestro ensayo) , donde se unen la narrativa de una película, la interacción de un software y la música de una banda sonora épica. 
+Y claro, están los videojuegos, como en nuestro caso, donde se fusionan la narrativa de una película, la interactividad de un software y la música épica de una banda sonora.
 
-!!Todo eso es hibridación en acción!!
+¡Eso es hibridación en acción!
 
-La hibridación no solo mola porque mezcla cosas diferentes. También cambia nuestra forma de pensar y crear. Según cita Manovich en su obra, en el capitulo 4
-"este proceso no solo crea nuevas formas de arte y medios, sino que también transforma cómo trabajamos y nos expresamos" (El software toma el mando, 2013).
+La hibridación no solo es genial porque mezcla cosas diferentes, también cambia nuestra manera de pensar y crear. Manovich dice que "este proceso no solo crea nuevas formas de arte y medios, sino que también transforma cómo trabajamos y nos expresamos" (El software toma el mando, 2013).
 
-Esto abre un mundo de posibilidades creativas donde las reglas tradicionales ya no aplican, y podemos ser más innovadores y expresivos que nunca.
+Esto nos abre un mundo lleno de posibilidades creativas donde las reglas tradicionales ya no aplican, y podemos ser más innovadores y expresivos que nunca.
 
-Lev Manovich describe la hibridación en los medios digitales como la combinación de diferentes formas y prácticas de medios para crear nuevas experiencias. Esta combinación no solo implica la fusión de tecnologías, sino también la integración de narrativas, interacciones y realidades para ofrecer productos mediáticos que superan las capacidades de sus componentes individuales. Vamos a aplicar estos conceptos a ***"Half-Life: Alyx"*** e ***"Ingress"***
+Lev Manovich describe la hibridación en los medios digitales como la mezcla de diferentes formas y prácticas de medios para crear nuevas experiencias. Esto no solo fusiona tecnologías, también integra narrativas, interacciones y realidades, ofreciendo productos mediáticos que superan lo que cada componente puede hacer por sí solo. Vamos a aplicar estos conceptos a "Half-Life: Alyx" e "Ingress".
 
 ***
 
@@ -35,36 +34,37 @@ Lev Manovich describe la hibridación en los medios digitales como la combinaci�
 
 [![halflife-alyx-11.jpg](https://i.postimg.cc/d0m89p2Z/halflife-alyx-11.jpg)](https://postimg.cc/d73ksWSJ)
 
-"Half-Life: Alyx", desarrollado por Valve, es un claro ejemplo de la hibridación que describe Manovich. Este videojuego une narrativa interactiva, gráficos avanzados y realidad virtual (VR) para ofrecer una experiencia sin igual.
+"Half-Life: Alyx", creado por Valve, es un ejemplo perfecto de lo que Lev Manovich describe como hibridación. Este juego mezcla narrativa interactiva, gráficos de alta calidad y realidad virtual (VR) para ofrecer una experiencia increíble.
 
-Es un ejemplo perfecto de hibridación en el contexto de los videojuegos, tal como lo define Lev Manovich en su obra "El software toma el mando". A través de este análisis, analizaremos cómo el videojuego combina multiples medios y tecnologías para crear una experiencia única e inmersiva.
+Es una muestra clara de cómo la hibridación funciona en el mundo de los videojuegos, tal como lo explica Manovich en su obra "El software toma el mando". Vamos a ver cómo este juego combina diferentes medios y tecnologías para crear algo único y envolvente.
 
 1. **Convergencia de Medios**
 
-En su definición de hibridación, Manovich menciona la convergencia de diferentes tecnologías de medios en una única plataforma de software. Half-Life: Alyx ejemplifica esto al integrar varios elementos:
+Manovich habla de hibridación como la mezcla de diversas tecnologías de medios en una sola plataforma de software. Half-Life: Alyx es un gran ejemplo de esto porque integra varios elementos:
 
-+ Gráficos 3D de alta calidad: Utilizando avanzados motores gráficos que combinan arte y tecnología para crear entornos detallados y realistas.
-+ Audio inmersivo: Con un diseño de sonido y bandas sonoras, ademas, se diseña sonidos realistas y diálogos de personajes, todos combinados para mejorar la inmersión del jugador.
-+ Interactividad: El uso de la realidad virtual (VR) lleva la interactividad a un nuevo nivel, permitiendo a los jugadores manipular objetos y explorar el entorno de manera física e intuitiva.
+   - Gráficos 3D de alta calidad: Utilizando avanzados motores gráficos que combinan arte y tecnología para crear entornos detallados y realistas.
+   - Audio inmersivo: Con un diseño de sonido y bandas sonoras, ademas, se diseña sonidos realistas y diálogos de personajes, todos combinados para mejorar la inmersión del jugador.
+   - Interactividad: El uso de la realidad virtual (VR) lleva la interactividad a un nuevo nivel, permitiendo a los jugadores manipular objetos y explorar el entorno de manera física e intuitiva.
 
-Manovich destaca que "la hibridación permite nuevas formas de expresión y transforma las prácticas tradicionales" (El software toma el mando, Capítulo 4, p. 201). En Half-Life: Alyx, la VR transforma la manera en que los jugadores interactúan con el mundo del juego, ofreciendo una forma de inmersión que no es posible en plataformas tradicionales.
+Manovich dice que "la hibridación permite nuevas formas de expresión y transforma las prácticas tradicionales" (El software toma el mando, 2013). En Half-Life: Alyx, la VR cambia cómo los jugadores interactúan con el juego, ofreciendo una inmersión que no se puede lograr en plataformas tradicionales.
 
 2. **Transformación de la Experiencia del Usuario**
-La hibridación en Half-Life: Alyx no solo mejora la técnica, sino también la experiencia del usuario:
+   
+La hibridación en Half-Life: Alyx no solo mejora la tecnología, sino también la experiencia del jugador:
 
-+ Narrativa Inmersiva: La combinación de la narrativa de un videojuego tradicional con la interactividad de la VR permite a los jugadores sentirse parte de la historia. Esto es una ilustración de cómo la hibridación puede cambiar la forma en que se percibe y se participa en una narrativa.
-Interfaz Natural: La VR permite una interfaz más natural y humana, donde los movimientos físicos reales se traducen directamente en acciones dentro del juego. Manovich subraya cómo el software puede "transformar cómo trabajamos y nos expresamos" (El software toma el mando, Capítulo 2, p. 115), y esto es claramente visible en la manera en que los jugadores pueden interactuar con el mundo de Half-Life: Alyx.
-
++ Narrativa Inmersiva: Combina la historia de un videojuego tradicional con la interactividad de la VR, haciendo que los jugadores se sientan parte de la historia. Esto muestra cómo la hibridación puede cambiar la percepción y participación en una narrativa.
++ Interfaz Natural: La VR permite una interfaz más humana y natural, donde los movimientos físicos reales se traducen directamente en acciones dentro del juego. Manovich subraya cómo el software puede "transformar cómo trabajamos y nos expresamos" (El software toma el mando, 2013), y esto es claramente visible en Half-Life: Alyx.
 + Gráficos 3D:  Utilizando avanzados motores gráficos que combinan arte y tecnología para crear entornos detallados y realistas.
 + Audio inmersivo: Con un diseño sonoro que incluye música ambiental, efectos de sonido realistas y diálogos de personajes, todos combinados para mejorar la inmersión del jugador.
 + Interactividad: El uso de la realidad virtual (VR) lleva la interactividad a un nuevo nivel, permitiendo a los jugadores manipular objetos y explorar el entorno de manera física e intuitiva.
+  
 Manovich destaca que "la hibridación permite nuevas formas de expresión y transforma las prácticas tradicionales" (El software toma el mando, Capítulo 4, p. 201). En Half-Life: Alyx, la VR transforma la manera en que los jugadores interactúan con el mundo del juego, ofreciendo una forma de inmersión que no es posible en plataformas tradicionales.
 
 3. Innovación Tecnológica y Artística
 La hibridación en Half-Life: Alyx también se ve en la innovación tecnológica y artística:
 
-+ Tecnología de Seguimiento de Movimiento: Utiliza tecnología avanzada para rastrear los movimientos del jugador con precisión, combinando hardware y software de manera innovadora.
-+ Diseño Artístico: La dirección de arte del juego mezcla elementos futuristas con toques realistas, creando una estética única que solo es posible gracias a la hibridación de técnicas artísticas y tecnológicas.
++ Tecnología de Seguimiento de Movimiento: Usa tecnología avanzada para rastrear los movimientos del jugador con precisión, combinando hardware y software de manera innovadora.
++ Diseño Artístico: a dirección de arte del juego mezcla elementos futuristas con toques realistas, creando una estética única gracias a la combinación de técnicas artísticas y tecnológicas.
 
 ### Conclusiones
 Manovich argumenta que la hibridación no solo crea nuevas formas de arte y medios, sino que también permite nuevas formas de innovación tecnológica. Half-Life: Alyx es un ejemplo claro de cómo la integración de diferentes tecnologías puede llevar a la creación de experiencias de juego revolucionarias.
@@ -92,17 +92,14 @@ Ingress es un videojuego de realidad aumentada (AR) desarrollado por Niantic que
 
 Manovich subraya cómo el software permite la convergencia de diferentes medios, creando nuevas experiencias. En Ingress, esta combinación permite una experiencia de juego que mezcla lo virtual con lo físico.
 
-2. Transformación de la Experiencia del Usuario
-   
-La hibridación en Ingress transforma significativamente la experiencia del usuario:
+2. Transformación de la Experiencia del Usuario:
 
 + Exploración del Mundo Real: Los jugadores deben moverse físicamente por el mundo real para interactuar con los portales, lo que fomenta la exploración y la actividad física.
 + Narrativa Distribuida: La historia del juego se desarrolla a través de eventos y misiones en el mundo real, lo que permite una narrativa más dinámica y participativa.
 
 Manovich destaca cómo la hibridación transforma las prácticas tradicionales y crea nuevas formas de participación. En Ingress, los jugadores viven la narrativa del juego a través de sus acciones en el mundo real, haciendo la experiencia más inmersiva y significativa.
 
-3. Innovación Tecnológica y Artística
-Ingress también ejemplifica la hibridación a través de la innovación tecnológica y artística:
+3. Innovación Tecnológica y Artística:
 
 + Interfaz AR: Combina la realidad aumentada con una interfaz de usuario intuitiva que permite a los jugadores interactuar con el juego de manera natural.
 + Diseño de Juego Basado en la Comunidad: Fomenta la formación de comunidades y la colaboración entre jugadores, mezclando elementos de redes sociales y juegos tradicionales.
@@ -124,4 +121,6 @@ Como se puede observar, Alyx e Ingress son ejemplos claros de hibridación.
 - Valve. (2020). Half-Life: Alyx. Valve Corporation. [Alyx](https://www.half-life.com/es/alyx)
 - Niantic. (2013). Ingress. Niantic, Inc. [Ingress](https://ingress.com/)
 - Lectura fuentes Xataka [Xataka](https://www.xataka.com/videojuegos/valve-presenta-trailer-alyx-regreso-half-life-dispositivos-realidad-virtual)
+- Tecnologia VR ( meta Quest 3) [TechRadar](https://global.techradar.com/es-es/news/oculus-quest-3-rumores-predicciones-y-fecha-de-lanzamiento-estimada)
+- Lectura VR Xataka ( Meta quest 3) [Xataka](https://www.xataka.com/realidad-virtual-aumentada/meta-quest-3-caracteristicas-precio-ficha-tecnica)
 
