@@ -1,12 +1,9 @@
 # PEC3_Visionando el futuro con las gafas de Manovich
-### Autor
 
-Arturo Navarrete Jimenez de Cisneros
+**Autor**:  Arturo Navarrete Jimenez de Cisneros   **Fecha**:  10/05/2024
 
 
-## Ensayo sobre la Hibridación en Half-Life: Alyx e Ingress
-
-### Introducción a la Hibridación según Lev Manovich
+## INTRODUCCION
 
 ¿Alguna vez has visto una película en 3D, como Avatar? No solo estás viendo una película tradicional, también estás experimentando la magia del 3D que mejora tu experiencia visual. Eso es una forma sencilla de hibridación.
 
@@ -28,9 +25,7 @@ Lev Manovich describe la hibridación en los medios digitales como la mezcla de 
 
 ***
 
-### Half-Life: Alyx
-
-#### Análisis de la Hibridación en Half-Life: Alyx
+## Half-Life: Alyx
 
 [![halflife-alyx-11.jpg](https://i.postimg.cc/d0m89p2Z/halflife-alyx-11.jpg)](https://postimg.cc/d73ksWSJ)
 
