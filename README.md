@@ -41,7 +41,7 @@ Manovich habla de hibridación como la mezcla de diversas tecnologías de medios
    - Audio inmersivo: Con un diseño de sonido y bandas sonoras, ademas, se diseña sonidos realistas y diálogos de personajes, todos combinados para mejorar la inmersión del jugador.
    - Interactividad: El uso de la realidad virtual (VR) lleva la interactividad a un nuevo nivel, permitiendo a los jugadores manipular objetos y explorar el entorno de manera física e intuitiva.
 
-Manovich dice que "la hibridación permite nuevas formas de expresión y transforma las prácticas tradicionales" (El software toma el mando, 2013). En Half-Life: Alyx, la VR cambia cómo los jugadores interactúan con el juego, ofreciendo una inmersión que no se puede lograr en plataformas tradicionales.
+En Half-Life: Alyx, la VR cambia cómo los jugadores interactúan con el juego, ofreciendo una inmersión que no se puede lograr en plataformas tradicionales.
 
 2. **Transformación de la Experiencia del Usuario**
    
